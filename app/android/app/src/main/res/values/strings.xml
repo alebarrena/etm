@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">app</string>
-    <string name="title_activity_main">app</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="app_name">EtmMeet</string>
+    <string name="title_activity_main">EtmMeet</string>
+    <string name="package_name">org.etmmeet.app</string>
+    <string name="custom_url_scheme">org.etmmeet.app</string>
 </resources>

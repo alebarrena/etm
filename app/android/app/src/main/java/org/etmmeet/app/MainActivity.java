@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package org.etmmeet.app;
 
 import com.getcapacitor.BridgeActivity;
 
